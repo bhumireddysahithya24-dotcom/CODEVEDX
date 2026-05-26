@@ -35,6 +35,18 @@ Cybersecurity internship task completed.
 - Pandas
 - NumPy
 - Scikit-learn
+---
+
+## Task 4 – Keylogger Detection & System Monitoring
+
+### Features
+- Suspicious process detection
+- Background system monitoring
+- Cybersecurity alert system
+- Safe defensive monitoring project
+
+### Files
+- keylogger_detector.py
 
 
 

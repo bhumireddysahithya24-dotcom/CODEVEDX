@@ -140,3 +140,16 @@ def predict_email(email_text):
 
 sample = "Your account is compromised! Click here to reset password"
 print("\nTest Result:", predict_email(sample))
+# Password Security & Cracking Analysis
+
+## Features
+- Password strength checker
+- Ethical password cracking simulation
+- Cybersecurity awareness using Python
+
+## Files
+- password_checker.py
+- password_cracker.py
+
+## Technologies Used
+- Python

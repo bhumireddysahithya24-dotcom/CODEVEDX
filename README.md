@@ -47,6 +47,18 @@ Cybersecurity internship task completed.
 
 ### Files
 - keylogger_detector.py
+  ---
+
+## Task 5 – Web Application Penetration Testing
+
+### Features
+- SQL Injection detection
+- XSS vulnerability detection
+- OWASP-style security testing
+- Safe educational penetration testing project
+
+### Files
+- web_vulnerability_scanner.py
 
 
 
